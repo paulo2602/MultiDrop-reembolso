@@ -13,6 +13,6 @@
 <p> Como dito acima, usei Vue 3 e um dos plugins que usei foi o VueRouter para fazer a propriedade computada, para fazer o roteamento das paginas.
 foi me proposto usar o tailwind css e algumas propriedade do primevue, porem esou em fase de apredizado e não consegui aplicar, porem em breve refinarei meus conhecimentos sobre e completarei o projeto com sucesso.
 
-Meu desejo é fazê-la com uma interface reponsiva, para usar tanto no Mobile quanto no Desktop. Criando assim um ambiente de ainda melhor para o usuário.</p>
+Meu desejo é concluir com uma interface reponsiva, para usar tanto no Mobile quanto no Desktop. Criando assim um ambiente ainda melhor para o usuário.</p>
 
 

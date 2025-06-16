@@ -1,7 +1,7 @@
 <h1> Projeto de Reembolso </h1>
 <h2>Ferramentas usadas: </h2>
-<p> * html </p> 
-<p> * Css </p> 
+<p> * HTML </p> 
+<p> * CSS </p> 
 <p> * JavaScript </p> 
 <p> * Vue.js</p>  
 <br>
